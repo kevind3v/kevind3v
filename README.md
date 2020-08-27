@@ -1,15 +1,20 @@
-### Hi, I'm Kevin!! 👋
-##### Olá, eu sou Kevin!! 👋
-<p>
- <a class="mr" href="https://github.com/kevind3v"><img src="https://img.icons8.com/fluent/32/000000/github.png"/></a>
- <a class="mr" href="mailto:kevinsiqueira.dev@gmail.com"><img src="https://img.icons8.com/fluent/32/000000/gmail.png"/></a>
- <a class="mr" href="https://www.linkedin.com/in/kevinssiqueira/"><img src="https://img.icons8.com/fluent/32/000000/linkedin.png"/></a>
- <a class="mr" href="https://www.instagram.com/kevind3v/"><img src="https://img.icons8.com/fluent/32/000000/instagram-new.png"/></a>
-</p>
+<p align="center" href="https://github.com/kevind3v"><img src="assets/github.gif" width="100"></p>
 
-### About me
+<h3 align="center">Hi 𝚌𝚘𝚍𝚎𝚛𝚜, I'm Kevin!! <img src="assets/Hi.gif" width="25"></h3>
 
-Fullstack Development Student
+<h6 align="center">
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kevinsiqueira.dev@gmail.com)](mailto:kanna6501@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/kevinssiqueira/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/kevind3v/)](https://www.instagram.com/kevind3v/)
+
+</h6>
+
+#### A little more about me...
+
+👨‍🎓 Fullstack Development Student
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kevind3v.kevind3v)
 
 ```php
 <?php
@@ -41,4 +46,9 @@ Fullstack Development Student
   }
 ```
 
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=kevindev0&show_icons=true)](https://github.com/kevind3v)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevind3v&layout=compact)](https://github.com/kevind3v)
+
+
+
+⭐️ From [@kevind3v](https://github.com/kevind3v)
