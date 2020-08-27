@@ -15,7 +15,7 @@ Full Stack Development Student
 <?php
   namespace Src\Kevind3v;
 
-  class Kevind3v extends Me
+  class Kevind3v extends About
   {
       public function getInfo{
         return array(
