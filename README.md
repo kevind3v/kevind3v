@@ -1,23 +1,45 @@
 ### Hi, I'm Kevin!! 👋
 ##### Olá, eu sou Kevin!! 👋
+<p>
+ <a class="mr" href="https://github.com/kevind3v"><img src="https://img.icons8.com/fluent/32/000000/github.png"/></a>
+ <a class="mr" href="mailto:kevinsiqueira.dev@gmail.com"><img src="https://img.icons8.com/fluent/32/000000/gmail.png"/></a>
+ <a class="mr" href="https://www.linkedin.com/in/kevinssiqueira/"><img src="https://img.icons8.com/fluent/32/000000/linkedin.png"/></a>
+ <a class="mr" href="https://www.instagram.com/kevind3v/"><img src="https://img.icons8.com/fluent/32/000000/instagram-new.png"/></a>
+</p>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/kevind3v)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/kevinssiqueira/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kevind3v/)](https://www.instagram.com/kevind3v/)
- 
+#### About me
+
+Full Stack Development Student
+
+```php
+<?php
+  namespace Src\Kevind3v;
+
+  class Kevind3v extends Me
+  {
+      public function getInfo{
+        return array(
+          "name" => "Kevin Santos",
+          "nationality" => "Brazilian",
+          "languages" => array(
+            "english" => "Basic (studying)"
+            "portuguese" => "Native",
+          ),
+          "occupation" => "Student"
+        );
+      }
+
+      public function getProgramming{
+        return array(
+          "languages" => array("HTML", "CSS", "JS", "PHP", "Dart"),
+          "frameworks" => array("Bootstrap", "Flutter", "Ionic"),
+          "databases" => array("MySQL", "MariaDB", "SQLite"),
+          "tools" => array("VS Code", "Insomnia", "Postman", "Photoshop"),
+          "others" => array("APIs", "Git/Github")
+          
+        );
+      }
+  }
+```
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevind3v&layout=compact)](https://github.com/kevind3v)
-
-<!--
-**kevind3v/kevind3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
