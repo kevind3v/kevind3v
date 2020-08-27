@@ -1,6 +1,6 @@
-<p align="center" href="https://github.com/kevind3v"><img src="assets/github.gif" width="100"></p>
+<p align="center" href="https://github.com/kevind3v"><img src="https://github.com/kevind3v/kevind3v/blob/master/assets/github.gif" width="100"></p>
 
-<h3 align="center">Hi 𝚌𝚘𝚍𝚎𝚛𝚜, I'm Kevin!! <img src="assets/Hi.gif" width="25"></h3>
+<h3 align="center">Hi 𝚌𝚘𝚍𝚎𝚛𝚜, I'm Kevin!! <img src="https://github.com/kevind3v/kevind3v/blob/master/assets/Hi.gif" width="25"></h3>
 
 <h6 align="center">
 
@@ -14,7 +14,7 @@
 
 👨‍🎓 Fullstack Development Student
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kevind3v.kevind3v)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kevind3v)
 
 ```php
 <?php
@@ -46,7 +46,6 @@
   }
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=kevindev0&show_icons=true)](https://github.com/kevind3v)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevind3v&layout=compact)](https://github.com/kevind3v)
 
 
