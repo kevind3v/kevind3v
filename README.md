@@ -10,11 +10,9 @@
 
 </span>
 
-#### A little more about me...
-
 👨‍🎓 Fullstack Development Student
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kevind3v)
+#### A little more about me...
 
 ```php
 <?php
