@@ -10,7 +10,7 @@
 
 </span>
 
-<img src="https://github.com/kevind3v/kevind3v/blob/master/assets/pacman.svg" width="30"> Fullstack Development Student
+<b>Fullstack Development Student</b> 
 
 ```php
 <?php
