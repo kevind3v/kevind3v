@@ -22,7 +22,7 @@ Full Stack Development Student
           "name" => "Kevin Santos",
           "nationality" => "Brazilian",
           "languages" => array(
-            "english" => "Basic (studying)"
+            "english" => "Studying"
             "portuguese" => "Native",
           ),
           "occupation" => "Student"
