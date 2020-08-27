@@ -7,9 +7,9 @@
  <a class="mr" href="https://www.instagram.com/kevind3v/"><img src="https://img.icons8.com/fluent/32/000000/instagram-new.png"/></a>
 </p>
 
-#### About me
+### About me
 
-Full Stack Development Student
+Fullstack Development Student
 
 ```php
 <?php
@@ -17,7 +17,7 @@ Full Stack Development Student
 
   class Kevind3v extends About
   {
-      public function getInfo{
+      public function getInfo(){
         return array(
           "name" => "Kevin Santos",
           "nationality" => "Brazilian",
@@ -29,14 +29,13 @@ Full Stack Development Student
         );
       }
 
-      public function getProgramming{
+      public function getProgramming(){
         return array(
           "languages" => array("HTML", "CSS", "JS", "PHP", "Dart"),
           "frameworks" => array("Bootstrap", "Flutter", "Ionic"),
           "databases" => array("MySQL", "MariaDB", "SQLite"),
           "tools" => array("VS Code", "Insomnia", "Postman", "Photoshop"),
-          "others" => array("APIs", "Git/Github")
-          
+          "others" => array("APIs", "Git/Github")   
         );
       }
   }
