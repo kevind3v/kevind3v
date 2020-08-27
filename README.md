@@ -10,7 +10,7 @@
 
 </span>
 
-👨‍🎓 Fullstack Development Student
+<img src="https://github.com/kevind3v/kevind3v/blob/master/assets/pacman.svg" width="30"> Fullstack Development Student
 
 #### A little more about me...
 
