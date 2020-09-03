@@ -6,7 +6,8 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kevinsiqueira.dev@gmail.com)](mailto:kanna6501@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/kevinssiqueira/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/kevind3v/)](https://www.instagram.com/kevind3v/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/kevind3v/)](https://www.instagram.com/kevind3v/)<br>
+![](https://komarev.com/ghpvc/?username=kevind3v&style=flat-square&label=PROFILE+VIEWS)
 
 </span>
 
