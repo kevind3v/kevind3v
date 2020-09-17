@@ -19,25 +19,25 @@
   class Kevind3v extends About
   {
       public function getInfo(){
-        return array(
+        return [
           "name" => "Kevin Santos",
           "nationality" => "Brazilian",
-          "languages" => array(
+          "languages" => [
             "english" => "Studying"
             "portuguese" => "Native",
-          ),
+          ],
           "occupation" => "Student"
-        );
+        ];
       }
 
       public function getProgramming(){
-        return array(
-          "languages" => array("HTML", "CSS", "JS", "PHP", "Dart"),
-          "frameworks" => array("Bootstrap", "Flutter", "Ionic"),
-          "databases" => array("MySQL", "MariaDB", "SQLite"),
-          "tools" => array("VS Code", "Insomnia", "Postman", "Photoshop"),
-          "others" => array("APIs", "Git/Github")   
-        );
+        return [
+          "languages" => ["HTML", "CSS", "JS", "PHP", "Dart"],
+          "frameworks" => ["Bootstrap", "Flutter", "Ionic"],
+          "databases" => ["MySQL", "MariaDB", "SQLite"],
+          "tools" => ["VS Code", "Insomnia", "Postman", "Photoshop"],
+          "others" => ["APIs", "Git/Github"]   
+        ];
       }
   }
 ```
