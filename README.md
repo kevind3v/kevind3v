@@ -18,7 +18,8 @@
 
   class Kevind3v extends About
   {
-      public function getInfo(){
+      public function getInfo(): array
+      {
         return [
           "name" => "Kevin Santos",
           "nationality" => "Brazilian",
@@ -30,7 +31,8 @@
         ];
       }
 
-      public function getProgramming(){
+      public function getProgramming(): array
+      {
         return [
           "languages" => ["HTML", "CSS", "JS", "PHP", "Dart"],
           "frameworks" => ["Bootstrap", "Flutter", "Ionic"],
