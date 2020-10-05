@@ -1,6 +1,6 @@
 <p align="center" href="https://github.com/kevind3v"><img src="https://github.com/kevind3v/kevind3v/blob/master/assets/github.gif" width="100"></p>
 
-<h3 align="center">Hi 𝚌𝚘𝚍𝚎𝚛𝚜, I'm Kevin!! <img src="https://github.com/kevind3v/kevind3v/blob/master/assets/Hi.gif" width="25"></h3>
+<h3 align="center">Olá 𝚌𝚘𝚍𝚎𝚛𝚜, Eu sou Kevin!! <img src="https://github.com/kevind3v/kevind3v/blob/master/assets/Hi.gif" width="25"></h3>
 
 <span align="center">
 
@@ -10,7 +10,7 @@
 
 </span>
 
-<b>Fullstack Development Student</b> 
+<b>Estudante Desenvolvimento Fullstack</b> 
 
 ```php
 <?php
