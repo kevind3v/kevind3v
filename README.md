@@ -1,6 +1,6 @@
 <p align="center" href="https://github.com/kevind3v"><img src="https://github.com/kevind3v/kevind3v/blob/master/assets/github.gif" width="100"></p>
 
-<h3 align="center">Olá 𝚌𝚘𝚍𝚎𝚛𝚜, Eu sou Kevin!! <img src="https://github.com/kevind3v/kevind3v/blob/master/assets/Hi.gif" width="25"></h3>
+<h3 align="center">Olá dev, Me chamo Kevin!! <img src="https://github.com/kevind3v/kevind3v/blob/master/assets/Hi.gif" width="25"></h3>
 
 <span align="center">
 
@@ -44,7 +44,7 @@
   }
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevind3v&layout=compact)](https://github.com/kevind3v)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevind3v&layout=compact&custom_title=Linguagens%20Utilizadas)](https://github.com/kevind3v)
 
 
 
