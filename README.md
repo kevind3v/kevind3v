@@ -44,7 +44,7 @@
   }
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevind3v&bg_color=181818&text_color=FFF&layout=compact&custom_title=Linguagens%20Utilizadas)](https://github.com/kevind3v)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevind3v&bg_color=181818&text_color=FFF&hide_border=true&layout=compact&custom_title=Linguagens%20Utilizadas)](https://github.com/kevind3v)
 
 
 
