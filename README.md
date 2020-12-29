@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/kevind3v/)](https://www.instagram.com/kevind3v/)<br>
 
 
-<b>Estudante Desenvolvimento Fullstack</b> 
+<b>Estudante e Desenvolvedor Fullstack</b> 
 
 ```php
 <?php
