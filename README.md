@@ -1,4 +1,4 @@
-<h3 align="center">Olá dev, me chamo Kevin!! <img src="https://github.com/kevind3v/kevind3v/blob/master/assets/Hi.gif" width="25"></h3>
+<h2 align="center">Olá dev, me chamo Kevin!! <img src="https://github.com/kevind3v/kevind3v/blob/master/assets/Hi.gif" width="25"></h2>
 
 <span align="center">
 
