@@ -1,5 +1,3 @@
-<p align="center" href="https://github.com/kevind3v"><img src="https://github.com/kevind3v/kevind3v/blob/master/assets/github.gif" width="100"></p>
-
 <h3 align="center">Olá dev, me chamo Kevin!! <img src="https://github.com/kevind3v/kevind3v/blob/master/assets/Hi.gif" width="25"></h3>
 
 <span align="center">
