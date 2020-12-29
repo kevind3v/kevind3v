@@ -1,12 +1,9 @@
-<h2 align="center">Olá dev, me chamo Kevin!! <img src="https://github.com/kevind3v/kevind3v/blob/master/assets/Hi.gif" width="25"></h2>
-
-<span align="center">
+<h2>Olá dev, me chamo Kevin!! <img src="https://github.com/kevind3v/kevind3v/blob/master/assets/Hi.gif" width="25"></h2>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kevinsiqueira.dev@gmail.com)](mailto:kanna6501@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/kevinssiqueira/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/kevind3v/)](https://www.instagram.com/kevind3v/)<br>
 
-</span>
 
 <b>Estudante Desenvolvimento Fullstack</b> 
 
