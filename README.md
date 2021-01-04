@@ -9,14 +9,13 @@
 
 ```php
 <?php
-  namespace Src\Kevind3v;
+  namespace Src\App\Kevind3v;
 
   class Kevind3v extends About
   {
-      public function getInfo(): array
+      public function getInformation(): ?array
       {
         return [
-          "name" => "Kevin Santos",
           "nationality" => "Brazilian",
           "languages" => [
             "english" => "Studying"
@@ -26,13 +25,13 @@
         ];
       }
 
-      public function getProgramming(): array
+      public function getKnowledge(): ?array
       {
         return [
           "languages" => ["HTML", "CSS", "JS", "PHP", "Dart"],
           "frameworks" => ["Bootstrap", "Flutter", "Ionic"],
           "databases" => ["MySQL", "MariaDB", "SQLite"],
-          "tools" => ["VS Code", "Insomnia", "Postman", "Photoshop"],
+          "tools" => ["VS Code", "Insomnia"],
           "others" => ["APIs", "Git/Github"]   
         ];
       }
