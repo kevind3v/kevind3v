@@ -4,42 +4,37 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/kevinssiqueira/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/kevind3v/)](https://www.instagram.com/kevind3v/)<br>
 
-
-<b>Estudante e Desenvolvedor Fullstack</b> 
+<b>Estudante e Desenvolvedor Full Stack</b>
 
 ```php
 <?php
-  namespace Src\App\Kevind3v;
+
+  namespace Src\App;
 
   class Kevind3v extends About
   {
-      public function getInformation(): ?array
-      {
+    public static function getBio(): array
+    {
         return [
+          "name" => "Kevin Siqueira"
+          "title" => "Full Stack Developer",
           "nationality" => "Brazilian",
-          "languages" => [
-            "english" => "Studying"
-            "portuguese" => "Native",
-          ],
-          "occupation" => "Student"
+          "Location" => "São Paulo, SP"
         ];
-      }
+    }
 
-      public function getKnowledge(): ?array
+    public static function getSkills(): ?array
       {
         return [
-          "languages" => ["HTML", "CSS", "JS", "PHP", "Dart"],
-          "frameworks" => ["Bootstrap", "Flutter", "Ionic"],
+          "languages" => ["JavaScript", "PHP"],
           "databases" => ["MySQL", "MariaDB", "SQLite"],
           "tools" => ["VS Code", "Insomnia"],
-          "others" => ["APIs", "Git/Github"]   
+          "others" => ["APIs", "Git/Github", "Flutter"]
         ];
       }
   }
 ```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevind3v&bg_color=0D1117&text_color=FFF&layout=compact&custom_title=Linguagens%20Utilizadas)](https://github.com/kevind3v)
-
-
 
 ⭐️ From [@kevind3v](https://github.com/kevind3v)
