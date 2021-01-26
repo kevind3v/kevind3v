@@ -23,7 +23,7 @@
         ];
     }
 
-    public static function getSkills(): ?array
+    public static function getSkills(): array
       {
         return [
           "languages" => ["JavaScript", "PHP"],
