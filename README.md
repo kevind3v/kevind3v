@@ -25,9 +25,10 @@
 ### I am studying 📚
 
 <p>
+<img src="https://img.shields.io/badge/sass-%23E4405F?style=for-the-badge&logo=sass&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25"/>
 <img src="https://img.shields.io/badge/-dart-035496?style=for-the-badge&logo=dart&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-flutter-29B0EE?style=for-the-badge&logo=flutter&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25"/>
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=FFFFFF" height="25"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25"/>
 </p>
@@ -40,12 +41,17 @@
 </a>
 
 <a href="https://www.linkedin.com/in/kevinssiqueira/" alt="LinkedIn" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevinssiqueira/" />
 </a>
 
 <a href="https://www.instagram.com/kevind3v/" alt="Instagram" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/kevind3v/" />
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/kevinssiqueira/" />
 </a>
+</p>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevind3v&bg_color=0D1117&text_color=FFF&hide_border=true&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=kevind3v&show_icons=true&bg_color=0D1117&text_color=FFF&hide_border=true&layout=compact">
 </p>
 
 <br/>
