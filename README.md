@@ -25,6 +25,7 @@
 ### I am studying 📚
 
 <p>
+<img src="https://img.shields.io/badge/laravel-EB4D43?style=for-the-badge&logo=laravel&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/sass-%23E4405F?style=for-the-badge&logo=sass&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25"/>
 <img src="https://img.shields.io/badge/-dart-035496?style=for-the-badge&logo=dart&logoColor=white" height="25"/>
