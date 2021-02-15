@@ -19,7 +19,6 @@
 <img src="http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github&logoColor=white" height="25"/>
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
 </p>
 
 ### I am studying 📚
@@ -31,7 +30,6 @@
 <img src="https://img.shields.io/badge/-dart-035496?style=for-the-badge&logo=dart&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-flutter-29B0EE?style=for-the-badge&logo=flutter&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=FFFFFF" height="25"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25"/>
 </p>
 
 ### You can find me 💻
