@@ -35,15 +35,19 @@
 
 <p>
 <a href="mailto:kevinsiqueira.dev@gmail.com" alt="E-mail" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kevinsiqueira.dev@gmail.com" />
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/kevinssiqueira/" alt="LinkedIn" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevinssiqueira/" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/kevind3v/" alt="Instagram" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/kevinssiqueira/" />
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
+
+<a href="https://kevinsiqueira.vercel.app" alt="Instagram" target="_blank">
+    <img src="https://img.shields.io/badge/-portf%C3%B3lio-black?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 </p>
 
