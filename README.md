@@ -1,5 +1,3 @@
-<h2>Hey dev <img src="./assets/Hi.gif" width="25"></h2>
-
 <p align="center">
   <img src="./assets/Card.png" 
   alt="Kevin Siqueira - Full Stack Developer" />
@@ -12,13 +10,13 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/PHP-02569B?style=for-the-badge&logo=php&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="25"/>
 <img src="http://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=jquery&logoColor=white" height="25"/>
 <img src="http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github&logoColor=white" height="25"/>
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
 </p>
 
 ### I am studying 📚
@@ -52,8 +50,8 @@
 </p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevind3v&bg_color=0D1117&text_color=FFF&hide_border=true&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=kevind3v&show_icons=true&bg_color=0D1117&text_color=FFF&hide_border=true&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevind3v&bg_color=0D1117&text_color=FFF&hide_border=true&layout=compact">
 </p>
 
 <br/>
