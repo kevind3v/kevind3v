@@ -50,8 +50,8 @@
 </p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=kevind3v&show_icons=true&bg_color=0D1117&text_color=FFF&hide_border=true&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevind3v&bg_color=0D1117&text_color=FFF&hide_border=true&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=kevind3v&show_icons=true&bg_color=0D1117&text_color=FFF&count_private=true&hide_border=true&layout=compact&hide_title=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevind3v&bg_color=0D1117&text_color=FFF&hide_border=true&layout=compact&hide_title=true&langs_count=6">
 </p>
 
 <br/>
