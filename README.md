@@ -44,8 +44,6 @@
 
 <p>
     <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25"/>
-</p>
-<p>
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" height="25"/>
 </p>
 <p>
@@ -70,7 +68,6 @@
 <img src="https://img.shields.io/badge/laravel-EB4D43?style=for-the-badge&logo=laravel&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/sass-%23E4405F?style=for-the-badge&logo=sass&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-flutter-29B0EE?style=for-the-badge&logo=flutter&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=FFFFFF" height="25"/>
 </p>
 
 ### You can find me 📞
