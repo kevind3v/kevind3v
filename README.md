@@ -62,14 +62,6 @@
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" height="25"/>
 </p>
 
-### I am studying 📚
-
-<p>
-<img src="https://img.shields.io/badge/laravel-EB4D43?style=for-the-badge&logo=laravel&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/sass-%23E4405F?style=for-the-badge&logo=sass&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/-flutter-29B0EE?style=for-the-badge&logo=flutter&logoColor=white" height="25"/>
-</p>
-
 ### You can find me 📞
 
 <p>
