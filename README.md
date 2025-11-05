@@ -3,22 +3,6 @@
   alt="Kevin Siqueira - Full Stack Developer" />
 </p>
 
-### My skills 🚀
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,nodejs,php)]()
-
-### Databases 💾
-
-[![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,sqlite)]()
-
-### Tools 🧰
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,docker,postman,idea,git)]()
-
-### Others 💻
-
-[![My Skills](https://skillicons.dev/icons?i=github,gitlab,linux)]()
-
 ### You can find me 📞
 
 <p>
